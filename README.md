@@ -1,2 +1,2 @@
-# mailup
-e-Mailing service manager
+# MailUp
+Local e-mailing service manager
